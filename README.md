@@ -19,16 +19,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## 🎯 Criando avatar  💪🤓
 
 ## 📒 Descrição
-Como crias audios e avatares para apresentações ou vendas.
+Como criar audios e avatares para apresentações ou vendas.
 
 ## 🤖 Tecnologias Utilizadas
 
+* [ElevenLabs](https://elevenlabs.io/)
+
+* [D-ID](https://studio.d-id.com/)
+
+
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1º geramos o roteiro e o audio no ElevenLabs.
+2º baixamos e exportamos o audio para o D-ID.
+3º escolhemos o avatar no D-ID
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto

@@ -33,25 +33,31 @@ Como criar audios e avatares para apresentações ou vendas.
 
 ## 🧐 Processo de Criação
 1º geramos o roteiro e o audio no ElevenLabs.
+
+ ![image](https://github.com/FabioAgroTechnology/lab-natty-or-not/assets/86381956/9fcc9dac-e884-43ad-9867-e997f6e75964)
+ 
 2º baixamos e exportamos o audio para o D-ID.
-3º escolhemos o avatar no D-ID
+
+![image](https://github.com/FabioAgroTechnology/lab-natty-or-not/assets/86381956/e2c22d82-2e67-47e1-8394-3d1a62aab5cc)
+
+
+3º escolhemos o avatar no D-ID e criamos o vídeo.
+
+![image](https://github.com/FabioAgroTechnology/lab-natty-or-not/assets/86381956/8eba2387-2baa-4be1-9278-c0b4a34adbc2)
+
+
 
 
 ## 🚀 Resultados
-[Resultado gerado com o limite gratuito do site D-ID]()
+[Resultado gerado com o limite gratuito do site D-ID](https://github.com/FabioAgroTechnology/lab-natty-or-not/commit/ce922f6a93d34b9ae062b24f36656e6ab997eecc)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+## 💭 Reflexão
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Ao criar alguns audios você perceberá que algumas vogais não saem como esperamos, exemplo:
+Vogal "e" no lugar de "é" e a frase acaba ficando estranha, então poe vezes será necessário fazer pequenos ajustes. Contudo a experiência é muito bacana para conhecer e desbravar IAs como as citadas anteriormente.
 
-## Links Interessantes
+## Agradecimentos
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Obrigado a [DIO](https://auth.dio.me/realms/master/protocol/openid-connect/auth?client_id=spa-core-client&redirect_uri=https%3A%2F%2Fweb.dio.me%2Ftrack%2Fsantander-2024-fundamentos-de-ia-para-devs&state=223cc18d-8db3-40bd-8c7f-61317053d13b&response_mode=fragment&response_type=code&scope=openid&nonce=06c86554-c9f6-4804-8189-7cebd2e8ab92)   e ao grande EXPERT Venilton, 👉 [falvojr](https://www.linkedin.com/in/falvojr).
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)

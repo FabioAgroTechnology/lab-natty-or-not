@@ -38,7 +38,7 @@ Como criar audios e avatares para apresentações ou vendas.
 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Resultado gerado com o limite gratuito do site D-ID]()
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.

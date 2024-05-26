@@ -54,8 +54,8 @@ Como criar audios e avatares para apresentações ou vendas.
 
 ## 💭 Reflexão
 
-Ao criar alguns audios você perceberá que algumas vogais não saem como esperamos, exemplo:
-Vogal "e" no lugar de "é" e a frase acaba ficando estranha, então poe vezes será necessário fazer pequenos ajustes. Contudo a experiência é muito bacana para conhecer e desbravar IAs como as citadas anteriormente.
+Ao criar alguns audios você perceberá que algumas vogais não ou palavras em português, não saem como esperamos, exemplo:
+Vogal "e" no lugar de "é", e a frase acaba ficando estranha, então pode ser necessário fazer pequenos ajustes. Contudo a experiência é muito bacana para conhecer e desbravar IAs como as citadas anteriormente.
 
 ## Agradecimentos
 

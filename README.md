@@ -27,6 +27,7 @@ Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+[ElevenLabs](https://elevenlabs.iohttps://elevenlabs.io/)
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
